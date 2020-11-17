@@ -2,6 +2,10 @@
 
 Es este repo nos vamos a conextar por medio de un API a la red social de Twitter para un análisis de adquisición de texto y procesamiento de información útil para nuestro análisis de datos en cuanto a tendencias actuales y poder mostrar por medio de gráficos sus comportamienteos 📚. Todo desde Python 🐍
 
+
+![Resultados](/Twitter.png)
+
+
 Para conocer un poco más.
 
 🐦 **Primer punto.**
@@ -11,7 +15,7 @@ Para conocer un poco más.
  Pre-procesamiento para Twitter
  - Quitar links, menciones, hashtags, Quitar emojis
 
-![Resultados](/Twitter.png)
+
 
  
  🐦 **Segundo punto.**
