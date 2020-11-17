@@ -11,9 +11,9 @@ Para conocer un poco más.
 
 🐦 **Primer punto.**
 
- Extraer Tuits
- Cargar Datos 
- Pre-procesamiento para Twitter
+* Extraer Tuits
+*  Cargar Datos 
+* Pre-procesamiento para Twitter
  - Quitar links, menciones, hashtags, Quitar emojis
 
 
@@ -21,9 +21,9 @@ Para conocer un poco más.
  
  🐦 **Segundo punto.**
  
- Hacer una visualización sobre esos tuits
- Series de tiempo
- Mapas de calor
+* Hacer una visualización sobre esos tuits
+*  Series de tiempo
+*  Mapas de calor
  
  
  
