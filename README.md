@@ -10,7 +10,9 @@ Para conocer un poco más.
  Cargar Datos 
  Pre-procesamiento para Twitter
  - Quitar links, menciones, hashtags, Quitar emojis
- 
+
+![Resultados](/Twitter.png)
+
  
  🐦 **Segundo punto.**
  
