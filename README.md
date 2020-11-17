@@ -25,7 +25,10 @@ Para conocer un poco más.
 *  Series de tiempo
 *  Mapas de calor
  
- 
- 
+ .
+.
+.
+.
+.
 
 🦉 ¡Gracias por leerme!  🦉
